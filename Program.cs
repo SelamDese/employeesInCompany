@@ -16,6 +16,31 @@ namespace employeesInCompany
                 public DateTime StartDate {get; set; }
 
             }
+
+    class Company
+    {
+// Create a custom type for Company. A company has the following properties.
+
+        public DateTime DateFounded { get; }
+        public string CompanyName { get; }
+        public List<Employee> EmployeesList { get; set; }
+        
+        public Company( string name, DateTime dateFounded )
+        {
+            DateFounded = dateFounded;
+            CompanyName = name;
+            EmployeesList = new List<Employee>();
+        }
+        
+        public void ListEmployees()
+        {
+            foreach ( Employee Employee in EmployeesList)
+            {
+                Console.WriteLine($"{Employee.FirstName} {Employee.LastName} works for {CompanyName} as {Employee.Title} since {Employee.StartDate}");
+            }
+        }
+
+    }        
     class Program
             {
                static void Main(string[] args)
