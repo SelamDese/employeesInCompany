@@ -1,0 +1,11 @@
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\bin\Debug\netcoreapp2.2\employeesInCompany.deps.json
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\bin\Debug\netcoreapp2.2\employeesInCompany.runtimeconfig.json
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\bin\Debug\netcoreapp2.2\employeesInCompany.runtimeconfig.dev.json
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\bin\Debug\netcoreapp2.2\employeesInCompany.dll
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\bin\Debug\netcoreapp2.2\employeesInCompany.pdb
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\obj\Debug\netcoreapp2.2\employeesInCompany.csprojAssemblyReference.cache
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\obj\Debug\netcoreapp2.2\employeesInCompany.csproj.CoreCompileInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\obj\Debug\netcoreapp2.2\employeesInCompany.AssemblyInfoInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\obj\Debug\netcoreapp2.2\employeesInCompany.AssemblyInfo.cs
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\obj\Debug\netcoreapp2.2\employeesInCompany.dll
+C:\Users\milliyon\workspace\backend\csharp\employeesInCompany\obj\Debug\netcoreapp2.2\employeesInCompany.pdb
