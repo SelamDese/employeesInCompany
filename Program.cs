@@ -46,7 +46,35 @@ namespace employeesInCompany
                static void Main(string[] args)
             {
 // Create an instance of a company. Name it whatever you like.
-
+        Company NSS = new Company("NSS", DateTime.Now);
+// Create three employees
+        Employee Selam = new Employee(){
+            FirstName = "selam",
+            LastName = "dese",
+            Title = "student",
+            StartDate = new DateTime(2018, 11, 12),
+        };
+        Employee Andy = new Employee(){
+            FirstName = "Andy",
+            LastName = "Collins",
+            Title = "Instractor",
+            StartDate = new DateTime(2019, 01, 12),
+        };
+        Employee Milli = new Employee(){
+            FirstName = "Milli",
+            LastName = "Tarek",
+            Title = "student",
+            StartDate = new DateTime(2019, 03, 12),
+        };
+// Assign the employees to the company
+        NSS.EmployeesList.Add(Selam);
+        NSS.EmployeesList.Add(Andy);
+        NSS.EmployeesList.Add(Milli);
+/*
+    Iterate the company's employee list and generate the
+    simple report shown above
+*/
+        // NSS.ListEmployees();
         }
     }
 }
