@@ -74,7 +74,7 @@ namespace employeesInCompany
     Iterate the company's employee list and generate the
     simple report shown above
 */
-        // NSS.ListEmployees();
+        NSS.ListEmployees();
         }
     }
 }
